@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WebCeph svg parser
 // @namespace    webceph-svg-parser
-// @version      1.1
+// @version      1.2
 // @description:ru Скрипт позволяет скопировать информацию из таблицы CEPH в буфер обмена по нажатию кнопки
 // @author       alexmacreall
 // @match        https:\/\/webceph\.com\/[^\/]+\/records\/[^\/]+\/[^\/]+\/analysis\/.*
