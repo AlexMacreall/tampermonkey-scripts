@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         WebCeph svg parser
 // @namespace    webceph-svg-parser
-// @version      1.1
-// @description:ru Скрипт позволяет скопировать информацию из таблицы CEPH в буфер обмена по нажатию кнопки
+// @version      1.2
+// @description:ru  Скрипт позволяет скопировать информацию из таблицы CEPH в буфер обмена по нажатию кнопки
 // @author       alexmacreall
 // @match        https:\/\/webceph\.com\/[^\/]+\/records\/[^\/]+\/[^\/]+\/analysis\/.*
 // @match        https://webceph.com/*/records/*/*/analysis/
@@ -10,6 +10,8 @@
 // @run-at       document-end
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/AlexMacreall/tampermonkey-scripts/main/webceph-svg-parser.js
+// @updateURL    https://raw.githubusercontent.com/AlexMacreall/tampermonkey-scripts/main/webceph-svg-parser.js
 // ==/UserScript==
 
 (async function() {
